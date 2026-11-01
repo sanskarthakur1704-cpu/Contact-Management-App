@@ -5,7 +5,7 @@
 **Interface:** Console  
 **Storage:** Local text file (`data/contacts.csv`)
 
-## App kya karti hai?
+## App kya karti ho ?
 
 Yeh chhoti address-book app contacts add, view, search, edit aur delete karti hai. Har contact ke liye naam, 10-digit phone number aur email rakhe jaate hain. Data app band hone ke baad bhi file mein save rehta hai.
 
@@ -14,7 +14,7 @@ Yeh chhoti address-book app contacts add, view, search, edit aur delete karti ha
 Project folder ke andar terminal kholkar:
 
 ```text
-javac -encoding UTF-8 -d out src/ContactApp.java
+javac -encoding UTF-8 -d out ContactApp.java
 java -cp out ContactApp
 ```
 
